@@ -3,7 +3,7 @@ Personal learning repository for React and modern web development technologies.
 This repository is a collection of my exercises and experiments as I learn modern web development.
 
 ## 🛠 Tech Stack
-- **Languages:** JavaScript (ES6+), HTML5, CSS3
+- **Languages:** JavaScript, HTML, CSS
 - **Libraries/Frameworks:** React
 - **Build Tools:** Vite, npm
 - **Version Control:** Git & GitHub
